@@ -47,6 +47,7 @@ The project implements and evaluates DBSCAN across toy, synthetic, and real-worl
 
 # Problem Statement - 2
 <img width="1474" height="147" alt="image" src="https://github.com/user-attachments/assets/fe58753e-b04c-4b67-808b-7561411c15c0" />
+# Solution Summary
 - Implemented a **comprehensive custom DBSCAN algorithm** and applied it to three real-world datasets:
   - **20 Newsgroups (20NG)**
   - **Fashion-MNIST (Fashion)**
